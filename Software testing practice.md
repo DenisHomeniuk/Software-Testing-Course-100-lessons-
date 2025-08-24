@@ -11,3 +11,11 @@
 
 <img width="1216" height="432" alt="image" src="https://github.com/user-attachments/assets/481333f1-897c-49ad-b4a4-d0bf18f6459e" />
 
+
+закінчив заповнювати Чек-ліст
+
+<img width="861" height="924" alt="image" src="https://github.com/user-attachments/assets/8e8b612e-3ee7-41f6-9217-3e0bbbe1acbe" />
+
+На відео було декілька багів, в мене їх не було, вже виправили.
+
+А загалом було цікаво подивитися та пробувати тестувати сайт.
