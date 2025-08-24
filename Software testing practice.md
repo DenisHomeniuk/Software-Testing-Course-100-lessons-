@@ -2,6 +2,12 @@
 
 Створення Чек-Ліста на практиці сайт https://www.adidas.ua
 
-<img width="1455" height="521" alt="image" src="https://github.com/user-attachments/assets/a2a9d3a6-a8f6-4e3e-9bfc-6ed6ee850562" />
+<img width="1231" height="454" alt="image" src="https://github.com/user-attachments/assets/a5a57f19-bd01-4274-b202-896beae9c075" />
 
-Закінчив поки що на цьому
+
+Закінчив поки що на цьому.
+
+Ось що в нас вийшло сьогодні
+
+<img width="1216" height="432" alt="image" src="https://github.com/user-attachments/assets/481333f1-897c-49ad-b4a4-d0bf18f6459e" />
+
