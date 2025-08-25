@@ -145,3 +145,17 @@ ID - Унікальний ідентифікатор тест-кейсу. Йог
 Очікуваний результат - Те, що ми очікуємо побачити в результаті перевірки.
 
 На цьому все.!
+
+
+ ⬇️ 10. Як робити Скрішноти. Програма Jing\Techsmith Capture
+
+ https://www.youtube.com/watch?v=6zwGRkKjyuY&list=PL9mn2EBC_SSySAfIxo72mzoaskkN7RNGU&index=11
+
+Завантажив ось такий інтрумент бля чек-лістів баг репортів і тому подібного
+
+<img width="374" height="543" alt="image" src="https://github.com/user-attachments/assets/6c262de8-b8df-4ed1-bdc0-502cd82e6bf7" />
+
+щоб скріншотити екран та вказувати на баги не допрацювання, стрілочками та виділеннями
+
+ 
+
