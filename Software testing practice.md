@@ -16,6 +16,16 @@
 
 <img width="861" height="924" alt="image" src="https://github.com/user-attachments/assets/8e8b612e-3ee7-41f6-9217-3e0bbbe1acbe" />
 
+
 На відео було декілька багів, в мене їх не було, вже виправили.
 
 А загалом було цікаво подивитися та пробувати тестувати сайт.
+
+
+
+              Відео по практиці https://www.youtube.com/watch?v=sGUbyZtAtXg&list=PL9mn2EBC_SSySAfIxo72mzoaskkN7RNGU&index=13    
+
+Створюємо тест кейси на практиці в Test Rail 
+
+
+<img width="1860" height="971" alt="image" src="https://github.com/user-attachments/assets/bfd34c51-0b6c-4d96-a360-74651892fe44" />
