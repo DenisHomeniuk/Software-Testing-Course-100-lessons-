@@ -29,3 +29,14 @@
 
 
 <img width="1860" height="971" alt="image" src="https://github.com/user-attachments/assets/bfd34c51-0b6c-4d96-a360-74651892fe44" />
+
+Cтворюємо проект під назвою Rozetka та пробуємо створювати тест кейси по цьому сайті.
+
+
+Створили перший крок, це натиснути на категорію 'Товари для геймерів'
+
+<img width="1847" height="932" alt="image" src="https://github.com/user-attachments/assets/646adf30-1952-40e7-b897-948f99964699" />
+
+
+
+
