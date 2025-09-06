@@ -45,4 +45,9 @@ Cтворюємо проект під назвою Rozetka та пробуємо
 <img width="1478" height="860" alt="image" src="https://github.com/user-attachments/assets/56244f1c-e7b9-4be8-b948-5eee0d8aa059" />
 
 
+Додаємо новий тест кейс під назвою "Перевірити фільтрацію по продавцю"
+
+<img width="1539" height="826" alt="image" src="https://github.com/user-attachments/assets/5a8f6186-2ced-4166-b601-a0d42a930da9" />
+
+
 
