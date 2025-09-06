@@ -38,5 +38,11 @@ Cтворюємо проект під назвою Rozetka та пробуємо
 <img width="1847" height="932" alt="image" src="https://github.com/user-attachments/assets/646adf30-1952-40e7-b897-948f99964699" />
 
 
+Було дороблено перший тест кейс 
+
+<img width="1526" height="906" alt="image" src="https://github.com/user-attachments/assets/4c0ffe6f-d97c-4720-9f39-2c89b22e1c0f" />
+
+<img width="1478" height="860" alt="image" src="https://github.com/user-attachments/assets/56244f1c-e7b9-4be8-b948-5eee0d8aa059" />
+
 
 
