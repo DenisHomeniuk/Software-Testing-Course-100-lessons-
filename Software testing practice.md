@@ -27,27 +27,8 @@
 
 Створюємо тест кейси на практиці в Test Rail 
 
+Пройшов практику, видалив минулі скриншоти та поділився посиланням на тест-кейси ⬇️
 
-<img width="1860" height="971" alt="image" src="https://github.com/user-attachments/assets/bfd34c51-0b6c-4d96-a360-74651892fe44" />
-
-Cтворюємо проект під назвою Rozetka та пробуємо створювати тест кейси по цьому сайті.
-
-
-Створили перший крок, це натиснути на категорію 'Товари для геймерів'
-
-<img width="1847" height="932" alt="image" src="https://github.com/user-attachments/assets/646adf30-1952-40e7-b897-948f99964699" />
-
-
-Було дороблено перший тест кейс 
-
-<img width="1526" height="906" alt="image" src="https://github.com/user-attachments/assets/4c0ffe6f-d97c-4720-9f39-2c89b22e1c0f" />
-
-<img width="1478" height="860" alt="image" src="https://github.com/user-attachments/assets/56244f1c-e7b9-4be8-b948-5eee0d8aa059" />
-
-
-Додаємо новий тест кейс під назвою "Перевірити фільтрацію по продавцю"
-
-<img width="1539" height="826" alt="image" src="https://github.com/user-attachments/assets/5a8f6186-2ced-4166-b601-a0d42a930da9" />
-
+[Master.-.TestRail.pdf](https://github.com/user-attachments/files/22216606/Master.-.TestRail.pdf)
 
 
